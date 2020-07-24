@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/trassshtalk/static/css/main.da944000.chunk.css",
+    "main.css": "/trassshtalk/static/css/main.9b1856c0.chunk.css",
     "main.js": "/trassshtalk/static/js/main.9b985f96.chunk.js",
     "main.js.map": "/trassshtalk/static/js/main.9b985f96.chunk.js.map",
     "runtime-main.js": "/trassshtalk/static/js/runtime-main.23d9fb95.js",
@@ -8,16 +8,16 @@
     "static/js/2.a594b411.chunk.js": "/trassshtalk/static/js/2.a594b411.chunk.js",
     "static/js/2.a594b411.chunk.js.map": "/trassshtalk/static/js/2.a594b411.chunk.js.map",
     "index.html": "/trassshtalk/index.html",
-    "precache-manifest.b368cff69c1e3fed2bba8ef574b809eb.js": "/trassshtalk/precache-manifest.b368cff69c1e3fed2bba8ef574b809eb.js",
+    "precache-manifest.78d9dfb4b0a3c7e2e665c5ab39a944b0.js": "/trassshtalk/precache-manifest.78d9dfb4b0a3c7e2e665c5ab39a944b0.js",
     "service-worker.js": "/trassshtalk/service-worker.js",
-    "static/css/main.da944000.chunk.css.map": "/trassshtalk/static/css/main.da944000.chunk.css.map",
+    "static/css/main.9b1856c0.chunk.css.map": "/trassshtalk/static/css/main.9b1856c0.chunk.css.map",
     "static/js/2.a594b411.chunk.js.LICENSE.txt": "/trassshtalk/static/js/2.a594b411.chunk.js.LICENSE.txt",
     "static/media/join.css": "/trassshtalk/static/media/download.0765ba35.png"
   },
   "entrypoints": [
     "static/js/runtime-main.23d9fb95.js",
     "static/js/2.a594b411.chunk.js",
-    "static/css/main.da944000.chunk.css",
+    "static/css/main.9b1856c0.chunk.css",
     "static/js/main.9b985f96.chunk.js"
   ]
 }
