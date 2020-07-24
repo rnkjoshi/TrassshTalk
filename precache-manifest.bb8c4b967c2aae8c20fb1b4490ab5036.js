@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0b8207b404305644560a6533ab78efae",
+    "revision": "e23f8633c9d657a3eb4267d5ad98fcef",
     "url": "/trassshtalk/index.html"
   },
   {
-    "revision": "feb0aee8e5fc3bad271f",
-    "url": "/trassshtalk/static/css/main.2ce28669.chunk.css"
+    "revision": "eaef081546425b4312fc",
+    "url": "/trassshtalk/static/css/main.da944000.chunk.css"
   },
   {
-    "revision": "3e0ed91e5979c090765c",
-    "url": "/trassshtalk/static/js/2.28a9bff1.chunk.js"
+    "revision": "d1d9f1f3d1f539560015",
+    "url": "/trassshtalk/static/js/2.a594b411.chunk.js"
   },
   {
     "revision": "df958f16b07871c3679510165e97a61a",
-    "url": "/trassshtalk/static/js/2.28a9bff1.chunk.js.LICENSE.txt"
+    "url": "/trassshtalk/static/js/2.a594b411.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "feb0aee8e5fc3bad271f",
-    "url": "/trassshtalk/static/js/main.c86b47c7.chunk.js"
+    "revision": "eaef081546425b4312fc",
+    "url": "/trassshtalk/static/js/main.53882522.chunk.js"
   },
   {
     "revision": "66669dc54622ce73bf15",
