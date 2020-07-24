@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "84ca7698f6530d2d062d2c9578ebc41d",
+    "revision": "4394df8f69e3ad1732de54363ac39a7d",
     "url": "/trassshtalk/index.html"
   },
   {
-    "revision": "588724399e764b0ec6fd",
+    "revision": "2c702604b5e57939c27c",
     "url": "/trassshtalk/static/css/main.9b1856c0.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/trassshtalk/static/js/2.a594b411.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "588724399e764b0ec6fd",
-    "url": "/trassshtalk/static/js/main.9b985f96.chunk.js"
+    "revision": "2c702604b5e57939c27c",
+    "url": "/trassshtalk/static/js/main.78691b60.chunk.js"
   },
   {
     "revision": "66669dc54622ce73bf15",
