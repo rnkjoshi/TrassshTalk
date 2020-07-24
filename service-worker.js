@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/trassshtalk/precache-manifest.c4dd4a03dccf3809b3b3b8735169212b.js"
+  "/trassshtalk/precache-manifest.234330ce58a29c3fb9e5bfd46545921a.js"
 );
 
 self.addEventListener('message', (event) => {

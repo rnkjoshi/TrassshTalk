@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/trassshtalk/static/css/main.2ce28669.chunk.css",
-    "main.js": "/trassshtalk/static/js/main.267fd9fb.chunk.js",
-    "main.js.map": "/trassshtalk/static/js/main.267fd9fb.chunk.js.map",
+    "main.js": "/trassshtalk/static/js/main.c86b47c7.chunk.js",
+    "main.js.map": "/trassshtalk/static/js/main.c86b47c7.chunk.js.map",
     "runtime-main.js": "/trassshtalk/static/js/runtime-main.23d9fb95.js",
     "runtime-main.js.map": "/trassshtalk/static/js/runtime-main.23d9fb95.js.map",
-    "static/js/2.156c44fb.chunk.js": "/trassshtalk/static/js/2.156c44fb.chunk.js",
-    "static/js/2.156c44fb.chunk.js.map": "/trassshtalk/static/js/2.156c44fb.chunk.js.map",
+    "static/js/2.28a9bff1.chunk.js": "/trassshtalk/static/js/2.28a9bff1.chunk.js",
+    "static/js/2.28a9bff1.chunk.js.map": "/trassshtalk/static/js/2.28a9bff1.chunk.js.map",
     "index.html": "/trassshtalk/index.html",
-    "precache-manifest.c4dd4a03dccf3809b3b3b8735169212b.js": "/trassshtalk/precache-manifest.c4dd4a03dccf3809b3b3b8735169212b.js",
+    "precache-manifest.234330ce58a29c3fb9e5bfd46545921a.js": "/trassshtalk/precache-manifest.234330ce58a29c3fb9e5bfd46545921a.js",
     "service-worker.js": "/trassshtalk/service-worker.js",
     "static/css/main.2ce28669.chunk.css.map": "/trassshtalk/static/css/main.2ce28669.chunk.css.map",
-    "static/js/2.156c44fb.chunk.js.LICENSE.txt": "/trassshtalk/static/js/2.156c44fb.chunk.js.LICENSE.txt",
+    "static/js/2.28a9bff1.chunk.js.LICENSE.txt": "/trassshtalk/static/js/2.28a9bff1.chunk.js.LICENSE.txt",
     "static/media/join.css": "/trassshtalk/static/media/download.0765ba35.png"
   },
   "entrypoints": [
     "static/js/runtime-main.23d9fb95.js",
-    "static/js/2.156c44fb.chunk.js",
+    "static/js/2.28a9bff1.chunk.js",
     "static/css/main.2ce28669.chunk.css",
-    "static/js/main.267fd9fb.chunk.js"
+    "static/js/main.c86b47c7.chunk.js"
   ]
 }

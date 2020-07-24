@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "48a7d71a5d83eb0b6377805f905beaec",
+    "revision": "0b8207b404305644560a6533ab78efae",
     "url": "/trassshtalk/index.html"
   },
   {
-    "revision": "2e2ea71fea2930a5942f",
+    "revision": "feb0aee8e5fc3bad271f",
     "url": "/trassshtalk/static/css/main.2ce28669.chunk.css"
   },
   {
-    "revision": "c935ff19983059132947",
-    "url": "/trassshtalk/static/js/2.156c44fb.chunk.js"
+    "revision": "3e0ed91e5979c090765c",
+    "url": "/trassshtalk/static/js/2.28a9bff1.chunk.js"
   },
   {
     "revision": "df958f16b07871c3679510165e97a61a",
-    "url": "/trassshtalk/static/js/2.156c44fb.chunk.js.LICENSE.txt"
+    "url": "/trassshtalk/static/js/2.28a9bff1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2e2ea71fea2930a5942f",
-    "url": "/trassshtalk/static/js/main.267fd9fb.chunk.js"
+    "revision": "feb0aee8e5fc3bad271f",
+    "url": "/trassshtalk/static/js/main.c86b47c7.chunk.js"
   },
   {
     "revision": "66669dc54622ce73bf15",
