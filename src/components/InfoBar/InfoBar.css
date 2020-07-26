@@ -22,10 +22,15 @@
     display: flex;
     flex: 0.5;
     justify-content: flex-end;
+    align-items: stretch;
     margin-right: 5%;
+    padding: 2%;
   }
   
   .onlineIcon {
     margin-right: 5%;
   }
   
+  .closeIcon{
+    margin: 5%;
+  }
