@@ -14,7 +14,7 @@ const InfoBar = ({room}) => {
                 <WhatsappShareButton title={`Hey...Let's have a TrassshTalk\nJoin me in room - ${room}\n\n`} url="https://rnkjoshi.github.io/trassshtalk/#/">
                     <WhatsappIcon  size={32} round />
                 </WhatsappShareButton>
-                <a href="/trassshtalk" className="closeIcon"><img src={closeIcon} alt="close" /></a>
+                <a href="/trassshtalk/" className="closeIcon"><img src={closeIcon} alt="close" /></a>
             </div>
         </div>
     );

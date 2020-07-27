@@ -11,7 +11,7 @@ const InputBox = ({message,setMessage,sendMessage}) => {
             // setMessage={setMessage}
             onKeyPress={e => e.key==='Enter' ? sendMessage(e):null}
         />
-        <button className="sendButton" onClick={e=> sendMessage(e)} >send</button>
+        <button className="sendButton" onClick={e => sendMessage(e)} >send</button>
         </form>
     );
 };
